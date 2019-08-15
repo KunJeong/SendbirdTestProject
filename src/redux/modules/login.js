@@ -1,6 +1,3 @@
-/**
- * @flow
- */
 import { sbConnect } from '../../sendbirdActions/user';
 
 const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
